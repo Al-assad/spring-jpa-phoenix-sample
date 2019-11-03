@@ -1,16 +1,12 @@
 # spring-jpa-phoenix-sample
 
-Apache Phoenix5.0 通过 Spring Data JPA 的方式集成到 Spring-Boot 的示例代码；
-
-<br>
+Apache Phoenix5.0 通过 Spring Data JPA 的方式集成到 Spring-Boot 的示例代码；  
 
 ### 各组件版本
 
 * Spring-Boot： 2.1.5.RELEASE
 * Apache Phoenix：5.0.0
-* Hadoop：2.7.4
-
-<br>
+* Hadoop：2.7.4.  
 
 ### 示例代码说明 
 
